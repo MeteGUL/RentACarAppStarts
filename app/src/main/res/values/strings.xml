@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rent A Car App</string>
+    <string name="our_cars">Our Cars</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="rc_name">RENT A CAR</string>
+    <string name="rc_drawer_open">Open Rent a Car Drawer</string>
+    <string name="rc_drawer_close">Close Rent a Car Drawer</string>
+</resources>
